@@ -2,14 +2,6 @@
   "hello": "Hello",
   "myName": "My name is",
   "iam": "and I am a",
-  "webdev": "Web Developer",
-  "about": "I am a student, currently studying at a Computer Science Education course at the Federal Institute of Bahia, Sr. do Bonfim campus, currently in my 6th semester. I have 4 years of experience as a Frontend/Backend Developer, including 2 years in a software house and 2 years as a freelancer. I have worked on projects such as dashboards, service management systems, sales control tools, landing pages, and general SaaS platforms. My main technologies include NextJS, ReactJS, and TypeScript. I also have knowledge in Python, Django, Docker, Jest, Testing Library, Prisma, Express, and NestJS.\n\nI am communicative and enjoy helping others, as well as valuing transparency in information sharing. In relation to the work environment, I highly value those that provide psychological safety. Also, I learn and adapt quickly to changes.",
-  "exp": "Experiences",
-  "brainny": "Frontend Dev Jr ~ (Freelance at Brainny Smart Solutions)",
-  "brainnyWorkingTime": "September 2021 - October 2022",
-  "brainnyAbout": "Responsible for repairing and developing new features in web applications for administration, dashboards, service management/scheduling, as well as landing pages, using web technologies such as React, TypeScript, ChakraUI, Apollo, and GraphQL. Worked in an agile team following Scrum methodologies (daily stand-ups, reviews, plannings, sprints, etc.).",
-  "system": "Frontend Dev Jr ~ (Freelance at SystemHope - Software Agency)",
-  "systemWorkingTime": "May 2020 - January 2021",
-  "systemAbout": "Responsible for repairing and developing features in web systems for administration, dashboards, inventory management, and also in a EAD platform project using React, Styled Components, MaterialUI, ChakraUI, React Router, among other technologies.",
-  "workingTime": "Working time"
+  "dev": "Developer (Dev)",
+  "about": "I am a student, currently studying at a Computer Science Education course at the Federal Institute of Bahia, Sr. do Bonfim campus. I have 4 years of experience as a Frontend/Backend Developer, including 2 years in a software house and 2 years as a freelancer. I have worked on projects such as dashboards, service management systems, sales control tools, landing pages, and general SaaS platforms. My main technologies include NextJS, ReactJS, and TypeScript. I also have knowledge in Python, Django, Docker, Jest, Testing Library, Prisma, Express, and NestJS.\n\nI am communicative and enjoy helping others, as well as valuing transparency in information sharing. Also, I learn and adapt quickly to changes."
 }

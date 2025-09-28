@@ -11,7 +11,7 @@ export function HomePage() {
         {t('myName')} <strong className="tracking-wide">Raniel César</strong>{' '}
         {t('iam')} <br />
         <h2 className="bg-accent max-w-3xl text-black font-pixel rounded-sm p-2 mb-2 border-4 border-secondary shadow-neo-md dark:shadow-accent text-[8.5vw] md:text-[6vw] leading-tight tracking-wider lg:text-5xl lg:p-4 lg:text-center">
-          ✦ {t('webdev')}
+          ✦ {t('dev')}
         </h2>
       </div>
 

@@ -2,14 +2,6 @@
   "hello": "Olá",
   "myName": "Me chamo",
   "iam": "e sou",
-  "webdev": "Desenvolvedor Web",
-  "about": "Estudante, sou discente de Licenciatura em Ciências da Computação pelo Ins. Federal Baiano, no campus de Sr. do Bonfim, estou no 6º semestre. Tenho 4 anos de experiência como Desenvolvedor Frontend/Backend, sendo 2 anos em software house e 2 como freelancer. Atuei em projetos de dashboards, gestão de serviços, controle de vendas, landing pages e SaaS no geral. Tendo como principais tecnologias: NextJS, ReactJS e TypeScript. Tenho conhecimento em Python, Django, Docker, Jest, Testing Library, Prisma, Express e NestJS. Sou comunicativo e gosto de ajudar, assim também como gosto da transparência de informações. Sobre o ambiente de trabalho: prezo muito pelo os quais possui segurança psicológica. Além disso, aprendo e me adapto rápido às mudanças.",
-  "exp": "Experiências",
-  "brainny": "Dev Frontend Jr ~ (PJ na Brainny Smart Solutions)",
-  "brainnyWorkingTime": "Setembro de 2021 - Outubro de 2022",
-  "brainnyAbout": "Responsável pelo reparo e criação de novas funcionalidades em aplicações web de administração, dashboards, gestão/agendamento de serviços, assim como em landing pages, usando tecnologias web como React, TypeScript, ChakraUI, Apollo e GraphQL. Atuação em uma equipe ágil seguindo metodologias do Scrum (dailies, reviews, plannings, sprints, etc).",
-  "system": "Dev Frontend Jr ~ (Freelancer na SystemHope - Agência de Software)",
-  "systemWorkingTime": "Maio de 2020 - Janeiro de 2021",
-  "systemAbout": "Responsável pelo reparo e criação de funcionalidades em sistemas web de administração, dashboards, controles de estoque e também num projeto de plataforma aulas EAD usando React, Styled Components, MaterialUI, ChakraUI, React Router entre outras tecnologias.",
-  "workingTime": "Tempo de atuação"
+  "dev": "Desenvolvedor (Dev)",
+  "about": "Estudante, sou discente de Licenciatura em Ciências da Computação pelo Ins. Federal Baiano, no campus de Sr. do Bonfim. Tenho 4 anos de experiência como Desenvolvedor Frontend/Backend, sendo 2 anos em software house e 2 como freelancer. Atuei em projetos de dashboards, gestão de serviços, controle de vendas, landing pages e SaaS no geral. Tendo como principais tecnologias: NextJS, ReactJS e TypeScript. Tenho conhecimento em Python, Django, Docker, Jest, Testing Library, Prisma, Express e NestJS. Sou comunicativo e gosto de ajudar, assim também como gosto da transparência de informações. Além disso, aprendo e me adapto rápido às mudanças."
 }

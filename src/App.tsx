@@ -1,7 +1,7 @@
 import { useTransitionAnimation } from '@/hooks'
 
 import { Header } from '@/components/layout'
-import { HomePage, ExperienciesPage } from '@/pages'
+import { HomePage } from '@/pages'
 
 export function App() {
   const [mainRef] = useTransitionAnimation({
@@ -24,8 +24,6 @@ export function App() {
         className="row-[2] pb-5 lg:py-8 w-full px-3 flex flex-col items-center justify-center lg:m-auto max-w-5xl"
       >
         <HomePage />
-
-        <ExperienciesPage />
       </main>
     </div>
   )

@@ -6,7 +6,7 @@ import {
 
 export function Header() {
   return (
-    <header className="sticky top-0 bg-primary z-10 w-full h-max py-3 border-b-2 border-secondary">
+    <header className="fixed top-0 bg-primary z-10 w-full h-max py-3 border-b-2 border-secondary">
       <div className="flex flex-col gap-4 md:px-6 xl:px-3 lg:gap-8 md:flex-row items-center justify-between max-w-5xl m-auto">
         <strong className="tracking-wider text-lg xl:text-2xl m-auto flex-[2] text-center">
           {'<'}

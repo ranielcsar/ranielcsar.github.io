@@ -15,7 +15,7 @@ export function HomePage() {
         />
       </picture>
 
-      <div className="h-max text-xl lg:text-2xl leading-relaxed">
+      <div className="h-max text-lg lg:text-2xl leading-relaxed">
         {t('hello')}!
         <br />
         {t('myName')} <strong className="tracking-wide">Raniel César</strong>{' '}
@@ -25,8 +25,8 @@ export function HomePage() {
         </h2>
       </div>
 
-      <p className="text-xl leading-relaxed lg:text-2xl">{t('current')}</p>
-      <p className="text-xl leading-relaxed lg:text-2xl">{t('about')}</p>
+      <p className="text-lg leading-relaxed lg:text-2xl">{t('current')}</p>
+      <p className="text-lg leading-relaxed lg:text-2xl">{t('about')}</p>
     </section>
   )
 }

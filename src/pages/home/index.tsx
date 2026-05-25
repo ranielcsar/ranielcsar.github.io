@@ -25,7 +25,6 @@ export function HomePage() {
         </h2>
       </div>
 
-      <p className="text-lg leading-relaxed lg:text-2xl">{t('current')}</p>
       <p className="text-lg leading-relaxed lg:text-2xl">{t('about')}</p>
     </section>
   )

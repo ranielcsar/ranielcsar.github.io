@@ -3,5 +3,6 @@
   "myName": "My name is",
   "iam": "and I am a",
   "dev": "Developer (Dev)",
-  "about": "Student, I am enrolled in a Computer Science Teaching Degree at the Federal Institute of Bahia, Sr. do Bonfim campus. I am also a scholarship holder in the Tutorial Education Program (PET), and our group's goal is to disseminate and promote Media Literacy. With 5 years of experience as a Developer, I have worked on projects involving dashboards, service management, sales control, landing pages, and SaaS in general. My main technologies include: NextJS, ReactJS, TypeScript, Express, and NestJS. I have knowledge in Python, Docker, Kubernetes, and TDD. I am communicative and enjoy helping, as well as valuing transparency in information. I learn and adapt quickly to changes."
+  "about-student": "Student, I am enrolled in a Computer Science Teaching Degree at the Federal Institute of Bahia, Sr. do Bonfim campus.",
+  "about-role": "I am also a scholarship holder in the Tutorial Education Program (PET), and our group's goal is to disseminate and promote Media Literacy. With 5 years of experience as a Developer, I have worked on projects involving dashboards, service management, sales control, landing pages, and SaaS in general. My main technologies include: NextJS, ReactJS, TypeScript, Express, and NestJS. I have knowledge in Python, Docker, Kubernetes, and TDD. I am communicative and enjoy helping, as well as valuing transparency in information. I learn and adapt quickly to changes."
 }

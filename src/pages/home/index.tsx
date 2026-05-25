@@ -25,7 +25,8 @@ export function HomePage() {
         </h2>
       </div>
 
-      <p className="text-lg leading-relaxed lg:text-2xl">{t('about')}</p>
+      <p className="text-lg leading-relaxed lg:text-2xl">{t('about-student')}</p>
+      <p className="text-lg leading-relaxed lg:text-2xl">{t('about-role')}</p>
     </section>
   )
 }

@@ -1,4 +1,4 @@
-import ProfilePic from '@/assets/perfil.png'
+import ProfilePic from '@/assets/perfil.jpeg'
 import { useTranslation } from 'react-i18next'
 
 export function HomePage() {
@@ -6,12 +6,12 @@ export function HomePage() {
 
   return (
     <section className="m-auto flex flex-col gap-5">
-      <picture className="m-auto bg-accent overflow-hidden h-56 w-[90%] lg:h-[14rem] lg:w-[14rem] rounded-full">
+      <picture className="m-auto bg-accent overflow-hidden h-60 w-60 border-8 border-accent/20 lg:h-[15rem] lg:w-[15rem] rounded-full">
         <img
           src={ProfilePic}
           alt="foto perfil de Raniel César"
           loading="lazy"
-          className="w-100% h-100% object-contain lg:max-h-60"
+          className="w-100% h-100% object-cover object-[0,-90px] md:object-[0,-80px] md:object-fill md:max-h-80"
         />
       </picture>
 

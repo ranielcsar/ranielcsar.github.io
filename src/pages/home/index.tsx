@@ -11,7 +11,7 @@ export function HomePage() {
           src={ProfilePic}
           alt="foto perfil de Raniel César"
           loading="lazy"
-          className="w-100% h-100% object-cover object-[0,-90px] md:object-[0,-80px] md:object-fill md:max-h-80"
+          className="w-100% h-100% object-cover object-[0,-85px] md:object-[0,-80px] md:object-fill md:max-h-80"
         />
       </picture>
 
